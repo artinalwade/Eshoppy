@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <style type="text/css">
+
+            .img_deg
+
+            {
+                float: right;
+            }
+
+        </style>
+        <title> My HTML code</title>
+    </head>
+    <body>
+        <center style="color: red;";><h1><b>UNIQUE SYSTEM SKILLS ACADEMY</b></h1></center>
+        <img src="C:\Users\Aarti\Downloads/pretty girl.jpg">
+        <hr style="border-color: red;">
+        <space style="color: blue;"><u>HOME||</u></space><space style="color: blue;"><u>ABOUT US||</u></space><space style="color: blue;"><u>COURSES||</u></space><space style="color: blue;"<u>NIELIT</u></space>
+        <div>
+            <p><h1><b>What We Are?</b></h1></p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam asperiores qui quidem provident. Nesciunt, blanditiis unde necessitatibus ea quae quaerat voluptatum reiciendis neque, voluptas, at quam sequi laborum? Reiciendis, dicta.
+
+            <p><h1><b>What We Offer?</b></h1></p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+            
+        </div>
+    </body>
+</html>
