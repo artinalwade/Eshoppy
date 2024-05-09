@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title> My Discription list</title>
+    </head>
+    <body>
+        <h1><b>Input/Output Devices</b></h1>
+        <dl>
+            <dt><b>Mouse</b></dt>
+            <dd>Mouse is input device and also known as pointing device</dd>
+            <dt><b>Printer</b></dt>
+            <dd>Printer is Output device which provide hard copy of output</dd>
+            <dt><b>Monitor</b></dt>
+            <dd>Monitor is output device which provide soft copy of output</dd>
+        </dl>
+
+    </body>
+</html>

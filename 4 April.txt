@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title> My Discription List</title>
+    </head>
+    <body>
+        <ul type="">
+            <h3><b>Certificate Courses</b></h3>
+            <li>CCA</li>
+            <li>DTP</li>
+            <li>TALLY</li>
+         
+        <ol type="I">
+            <h3>NIELIT Courses</h3>
+            <li>CCC</li>
+            <li>O Level</li>
+            <li>A Level</li>
+
+        </ol>
+
+        <h3><b>Diploma Courses</b></h3>
+        <ol type="A">
+            <li>DCA</li>
+            <li>ADCA</li>
+            <li>DFA</li>
+            <li>DDNT</li>
+
+        </ol>
+
+        <h3>Programming Courses</h3>
+        <ol type="1" start="11">
+            <li>PYTHON</li>
+            <li>Java</li>
+            <li>C Programming</li>
+            <li>C++</li>
+            <li>Data Structure using C</li>
+
+           <h3><b>Web Designing Courses</b></h3> 
+           <ol type="1">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Bootstrap</li></ol>
+                <ol type="1" start="11">
+                    <li>Java <Script></Script></li>
+                </ol>
+                
+            </ol>
+
+        </ol>
+
+    </body>
+</html>
